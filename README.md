@@ -1,7 +1,9 @@
 # Documentation
 
-This repository will contain various bits of documentation for the ThreatSpec project. Things like tutorials, wiki pages, how to get involved etc.
+## Specifications
 
-# Get involved!
+[Code Annotations](https://github.com/threatspec/specifications/blob/master/code_annotations-0.1.md)
+
+[Intermediate JSON](https://github.com/threatspec/specifications/blob/master/lair_schema-0.1.json)
 
 
