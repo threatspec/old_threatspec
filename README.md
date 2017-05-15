@@ -13,3 +13,9 @@ Check out the Getting Started section on https://threatspec.org
 ## Documentation
 
 Documentation can be found here: https://github.com/threatspec/threatspec/wiki
+
+## Looking for code?
+
+Checkout out the reference implementation written in Python: https://github.com/threatspec/pythreatspec
+
+Other implementations can be found in the Tools section of the documentation: https://github.com/threatspec/threatspec/wiki/Tools
