@@ -8,7 +8,7 @@ Security testing is shifting left, from annual pentests to the realm of unit tes
 
 ## Getting started
 
-Check out the Getting Started section on https://threatspec.org
+Check out the Getting Started section on https://threatspec.org/#gettingstarted
 
 ## Documentation
 
