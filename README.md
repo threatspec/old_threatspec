@@ -10,6 +10,6 @@ Security testing is shifting left, from annual pentests to the realm of unit tes
 
 Check out the Getting Started section on https://threatspec.org
 
-## Community
+## Documentation
 
-Community documentation can be found here: https://github.com/threatspec/threatspec/wiki
+Documentation can be found here: https://github.com/threatspec/threatspec/wiki
